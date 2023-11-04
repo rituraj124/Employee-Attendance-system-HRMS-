@@ -1,0 +1,3 @@
+[submodule "Dashboard1/frontend"]
+	path = Dashboard1/frontend
+	url = https://github.com/rituraj124/Employee-Attendance-system-HRMS-.git
